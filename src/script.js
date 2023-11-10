@@ -100,6 +100,7 @@
                     break;
                 case 'Real Betis':
                     equipoLi.setAttribute("src", "imagenes/real_betis.png");
+                    break;
                 case 'Sevilla FC':
                     equipoLi.setAttribute("src", "imagenes/sevilla.png");
                     break;
